@@ -1,6 +1,7 @@
 require 'bundler/setup'
 
 require 'hashie'
+require 'post_to_s3/file_upload'
 
 module PostToS3
   class Configuration < Hashie::Mash; end
