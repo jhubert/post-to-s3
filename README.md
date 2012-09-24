@@ -2,6 +2,10 @@
 
 A configuration and setup helper for using direct to S3 form uploads. Basically just an extraction of the ViewHelper and FormUpload pieces from Ungluate ( http://github.com/camelpunch/ungulate )
 
+## Example
+
+You can find an example of how the Gem is used here: https://gist.github.com/3774422
+
 # License
 
 file_upload.rb, view_helpers.rb and much of post_to_s3.rb are subject to the following license:
